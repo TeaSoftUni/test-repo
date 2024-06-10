@@ -1,3 +1,3 @@
-name = Aca
-size = 100
-email = aca@dir.bg
+name = Aca, Sava
+size = 100, 90
+email = aca@dir.bg, sava@dir.bg
